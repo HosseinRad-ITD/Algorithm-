@@ -1,0 +1,9 @@
+start
+move the 100 to N
+move the 1 to I
+S multipbe by I ==> S
+I+1==>I
+if I<=N then back to line 4
+if it's not 
+print S
+done
